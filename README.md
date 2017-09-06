@@ -1,19 +1,20 @@
 ## Spectrum Bot
 
-This is a Chat and Interactive bot for Beam.pro written in Python and currently in development
+This is currently a WIP Chat and Interactive bot for [Mixer.com](https://mixer.com) written in Python and currently in development
 
 **Author:** CAPGames  
 **Website:** [spectrumbot.capgames.co.uk](https://spectrumbot.capgames.co.uk/)  
 
 **State:** Not a workable state [[progress]](https://spectrumbot.capgames.co.uk/progress)  
 
+## Target Platforms
 **Primary Platforms:** Raspberry Pi  
 **Secondary Platforms:** Windows, Linux
 
-## Currently Completed
-Project  has been restarted from beginning
+## Current Tasks Completed
+This project has been restarted from the beginning and will be updated where time allows
 
-## Next On list
+## Task List (In no order)
 * Database
   * Create a connection with a database
   * Get data from database
@@ -36,4 +37,6 @@ Project  has been restarted from beginning
 * Interactive
   * The steps for this need to be reworked due to the release of Interactive 2.0
 * Bot Core
+  * TBD
 * Features
+  * TBD
